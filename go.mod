@@ -1,4 +1,4 @@
-module github.com/go_crud_Api
+module github.com/go_crud_api
 
 go 1.18
 
